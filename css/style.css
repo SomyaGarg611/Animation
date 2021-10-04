@@ -1,0 +1,16 @@
+ body{
+    margin: 0;
+    padding: 0;
+} 
+.sky{
+    background: url("../images/riverr.jpg");
+    width: 100%;
+    height: 570px;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+/* .sailboat{
+    background-repeat: no-repeat;
+    bottom: 100px;
+} */
