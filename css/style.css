@@ -8,16 +8,13 @@
     height: 595px;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
+    
 }
-
 .boat{
     position: absolute;
     bottom: 20px;
     height: 200px;
     width: 200px;
-    
-
 }
 #sail{
     position: absolute;
@@ -27,4 +24,7 @@
 }
 #click button:hover{
     background-color:rgb(177, 192, 221)
+}
+button {
+    background-color: #B8DFD8;
 }
